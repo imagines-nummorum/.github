@@ -29,4 +29,4 @@ Key Focus Areas:
 * Formal Description of Compositional Data: Modeling the complex semantic relationships within ancient imagery.
 * Quantification of Uncertainty: Implementing a framework for handling ambiguous and fragmentary data in knowledge graphs.
 
-The public release of the core schema and the tech demo is scheduled for January 2026.
+The public release of the core schema and the tech demo is scheduled for 2026-01-06.
