@@ -22,11 +22,6 @@ The programme is coordinated by the [Union of German Academies of Sciences and H
 [Our Team](https://www.imagines-nummorum.eu/en/participants)  
 [Contact](https://www.imagines-nummorum.eu/en/contact)
 
-## Current Status: Preparing v0.9 Draft & Tech Demo
-We are finalizing the publication draft and a technical demonstration for our Property Graph Model (v0.9).
-
-Key Focus Areas:
-* Formal Description of Compositional Data: Modeling the complex semantic relationships within ancient imagery.
-* Quantification of Uncertainty: Implementing a framework for handling ambiguous and fragmentary data in knowledge graphs.
-
-The public release of the core schema and the tech demo is scheduled for 2026-01-06.
+## Current Status: IDEA v0.9.2 Draft & Tech Demo released
+We have finalized the publication draft and a technical demonstration for IDEA, our Graph Model for disribing visual compositions and modelling uncertainty:
+[imagines-nummorum/idea-graph-framework](https://github.com/imagines-nummorum/idea-graph-framework)
