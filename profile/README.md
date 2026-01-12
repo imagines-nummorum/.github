@@ -22,6 +22,6 @@ The programme is coordinated by the [Union of German Academies of Sciences and H
 [Our Team](https://www.imagines-nummorum.eu/en/participants)  
 [Contact](https://www.imagines-nummorum.eu/en/contact)
 
-## Current Status: IDEA v0.9.2 Draft & Tech Demo released
-We have finalized the publication draft and a technical demonstration for IDEA, our Graph Model for disribing visual compositions and modelling uncertainty:
+## Current Status: IN.IDEA v0.9.3 Draft & Tech Demo released
+We have finalized the publication draft and a technical demonstration for IN.IDEA, our Graph Model for disribing visual compositions and modelling uncertainty:
 [imagines-nummorum/idea-graph-framework](https://github.com/imagines-nummorum/idea-graph-framework)
